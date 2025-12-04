@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif
+![Deskripsi GIF (bisa dikosongkan)](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
 # 👋 Hi, I’m Fauzi Fahrurrahman
 # 👀 I’m interested in Drawing comics and code
 # Follow me on Instagram
