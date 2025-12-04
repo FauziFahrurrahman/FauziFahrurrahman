@@ -56,15 +56,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 📊 >_ MONITORING: `system.stats` (Live)
-
-<p align="center">
-  <a href="https://github.com/{Fauzi Fahrurrahman}">
-    <img src="https://github-readme-stats.vercel.app/api?username={Fauzi Fahrurrahman}&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/{Fauzi Fahrurrahman}">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Fauzi Fahrurrahman}&layout=compact&hide_border=true&langs_count=5&theme=dark" alt="Top Languages">
-  </a>
-</p>
-
 
